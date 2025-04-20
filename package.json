@@ -1,0 +1,19 @@
+{
+  "name": "demo-discord-bot",
+  "version": "0.0.1",
+  "description": "A demo of how modular discord bots could work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diamonddev01/demo-discord-bot.git"
+  },
+  "author": "DiamondDev01",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/diamonddev01/demo-discord-bot/issues"
+  },
+  "homepage": "https://github.com/diamonddev01/demo-discord-bot#readme"
+}
